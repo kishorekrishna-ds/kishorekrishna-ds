@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kishore Krishna Moorthy👋
 
-<!--
-**kishorekrishna-ds/kishorekrishna-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Data Science @ University of Western Australia
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- SQL
+- Power BI
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interests
+- Data Analytics
+- Data Science
+- Artificial Intelligence
+
+🌏 Perth, Australia
+
+## Current Focus
+- Building Data Science Projects
+- Learning SQL & Machine Learning
+- Preparing for Data Science Internships
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/kishore-krishna-moorthy-018195263
